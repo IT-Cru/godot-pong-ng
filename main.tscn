@@ -1,6 +1,6 @@
 [gd_scene load_steps=20 format=3 uid="uid://bcq2ypchwaqs7"]
 
-[ext_resource type="Texture2D" uid="uid://d2u7cafn2d6r2" path="res://assets/Court.png" id="1_1c4u1"]
+[ext_resource type="Texture2D" uid="uid://d2u7cafn2d6r2" path="res://assets/backgrounds/Court.png" id="1_1c4u1"]
 [ext_resource type="Texture2D" uid="uid://dm768oh5v6ait" path="res://assets/Ball.png" id="2_la2un"]
 [ext_resource type="Script" path="res://scripts/Ball.cs" id="2_rnc61"]
 [ext_resource type="Texture2D" uid="uid://duuh754r2ekv8" path="res://assets/Paddle.png" id="3_gv8ss"]
